@@ -1,0 +1,47 @@
+Advanced Guess the Number Game Assignment
+
+Objective:
+Create an advanced "Guess the Number" game in Java that not only allows the user to guess a randomly generated number but also incorporates additional features and enhancements.
+
+Features to Implement:
+
+Difficulty Levels:
+
+Implement multiple difficulty levels (e.g., easy, medium, hard). Each level should have a different range of numbers to guess from.
+Score System:
+
+Introduce a scoring system that considers the number of attempts and difficulty level. The score should be displayed at the end of each game.
+User Profiles:
+
+Allow users to create profiles with a username and track their scores over multiple game sessions. Implement a leaderboard that displays the top scores.
+Hints and Clues:
+
+Provide the option for the game to offer hints or clues after a certain number of incorrect guesses. The hints could include whether the correct number is higher or lower.
+Time Limit:
+
+Add a time limit for each guessing attempt. If the user fails to guess within the time limit, the game should end.
+Sound Effects and Graphics:
+
+Enhance the user experience by incorporating sound effects and simple graphics. For example, play a sound when the user makes a correct or incorrect guess.
+Submission Guidelines:
+
+Code Submission:
+
+Submit the complete Java source code for your advanced "Guess the Number" game.
+Documentation:
+
+Provide clear documentation explaining the design choices, algorithms used for scoring, and any external libraries or APIs utilized (if any).
+User Guide:
+
+Include a user guide on how to play the game, create user profiles, and understand the scoring system. Explain the available difficulty levels and how to access hints.
+Scoring Algorithm:
+
+Describe the scoring algorithm you implemented, considering both the number of attempts and difficulty level.
+Reflection:
+
+Write a reflection on the challenges faced, lessons learned, and potential improvements for future iterations of the game.
+Tips:
+
+Break down the problem into smaller tasks before starting the implementation.
+Test your program thoroughly, especially considering edge cases like user input validation and scoring calculations.
+Make use of Java's Random class for generating random numbers and consider using simple graphical libraries for a more engaging user interface.

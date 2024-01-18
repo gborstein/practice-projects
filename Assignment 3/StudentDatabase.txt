@@ -1,0 +1,51 @@
+Student Database Assignment
+
+Objective:
+Create a student database management system in Java that allows for the storage, retrieval, and manipulation of student records. The system should include features such as adding new students, updating information, and generating reports.
+
+Features to Implement:
+
+Student Class:
+
+Create a Student class with attributes such as student ID, name, date of birth, grade, and any other relevant information. Implement appropriate getter and setter methods.
+Database Operations:
+
+Implement a class (e.g., StudentDatabase) that manages the student records. Include methods for:
+Adding a new student to the database.
+Searching for a student by ID or name.
+Updating student information.
+Deleting a student from the database.
+User Interface:
+
+Develop a simple user interface to interact with the student database. Use the console for input and output. Allow the user to choose different operations.
+Data Validation:
+
+Implement validation checks for user input. Ensure that the user enters valid data for each student attribute.
+Reporting:
+
+Include functionality to generate reports, such as:
+List of all students in the database.
+Average grade of all students.
+Students with the highest and lowest grades.
+Submission Guidelines:
+
+Code Submission:
+
+Submit the complete Java source code for your student database management system.
+Documentation:
+
+Provide clear documentation explaining the design choices, structure of classes, and any external libraries or APIs utilized (if any).
+User Guide:
+
+Include a user guide on how to use the student database system. Explain the available operations, input formats, and any error handling.
+Testing:
+
+Test your program thoroughly, especially considering edge cases like empty databases, searching for non-existent students, and updating student information.
+Reflection:
+
+Write a reflection on the challenges faced, lessons learned, and potential improvements for future iterations of the student database system.
+Tips:
+
+Break down the problem into smaller tasks before starting the implementation.
+Make use of Java's Object-Oriented Programming principles to design classes and manage student records efficiently.
+Consider implementing data structures like ArrayList or HashMap to store and manipulate student records.

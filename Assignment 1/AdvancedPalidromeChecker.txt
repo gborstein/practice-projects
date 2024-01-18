@@ -1,0 +1,47 @@
+Advanced Palindrome Checker Assignment
+
+Objective:
+Create an advanced palindrome checker program in Java that not only checks if a given string is a palindrome but also implements additional features and optimizations.
+
+Features to Implement:
+
+Case Insensitivity:
+
+The palindrome checker should be case-insensitive, meaning it should treat uppercase and lowercase letters as equal.
+Ignore Non-Alphanumeric Characters:
+
+The checker should ignore non-alphanumeric characters (e.g., spaces, punctuation, symbols) when determining if a string is a palindrome. Focus only on letters and numbers.
+Multiple Word Palindromes:
+
+Extend the checker to handle multiple-word palindromes. For example, "A man, a plan, a canal, Panama!" should be recognized as a palindrome.
+Efficient Algorithm:
+
+Optimize the palindrome-checking algorithm for efficiency. Avoid unnecessary iterations and aim for a time complexity better than O(n^2).
+User-Friendly Interface:
+
+Implement a user-friendly interface that allows the user to input a string and displays whether it is a palindrome or not. Clearly communicate the result and any additional information (such as ignored characters).
+Performance Metrics:
+
+Include functionality to measure and display the execution time of the palindrome-checking algorithm. Compare the performance of your algorithm with a less optimized version.
+Submission Guidelines:
+
+Code Submission:
+
+Submit the complete Java source code for your palindrome checker.
+Documentation:
+
+Provide clear documentation explaining the design choices, algorithm used, and any optimizations applied.
+User Guide:
+
+Include a user guide on how to use your palindrome checker. Explain any specific input requirements and showcase examples.
+Efficiency Analysis:
+
+Discuss the time complexity of your algorithm and explain how it compares to a less optimized version.
+Reflection:
+
+Write a reflection on the challenges faced, lessons learned, and potential improvements for future iterations of the palindrome checker.
+Tips:
+
+Break down the problem into smaller tasks before starting the implementation.
+Test your program with a variety of input cases, including edge cases and examples with multiple words and non-alphanumeric characters.
+Make use of Java's string manipulation methods, regular expressions, and efficient data structures.
