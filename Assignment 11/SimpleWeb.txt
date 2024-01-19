@@ -1,0 +1,47 @@
+Certainly! Here's an assignment for creating a Simple Web Scraper in Java:
+
+**Simple Web Scraper Assignment**
+
+**Objective:**
+Develop a Java program that performs basic web scraping to extract information from a website. The scraper should retrieve specific data elements from the HTML content of a web page and display or store the results.
+
+**Features to Implement:**
+
+1. **User Input:**
+   - Allow the user to input the URL of the website they want to scrape.
+
+2. **HTML Download:**
+   - Implement functionality to download the HTML content of the specified web page.
+
+3. **Data Extraction:**
+   - Define the data elements you want to extract (e.g., titles, links, paragraphs). Implement logic to parse the HTML and extract these elements.
+
+4. **Display or Store Results:**
+   - Provide options for users to either display the extracted data on the console or store it in a file.
+
+5. **Error Handling:**
+   - Implement proper error handling to deal with issues such as invalid URLs, network errors, or parsing failures.
+
+**Submission Guidelines:**
+
+1. **Code Submission:**
+   - Submit the complete Java source code for your Simple Web Scraper.
+
+2. **Documentation:**
+   - Provide clear documentation explaining the design choices, structure of classes, and details about the implemented web scraping logic.
+
+3. **User Guide:**
+   - Include a user guide on how to use the Simple Web Scraper. Explain the available operations, input formats, and error handling.
+
+4. **Testing:**
+   - Test your program with different websites, considering variations in HTML structure.
+
+5. **Reflection:**
+   - Write a reflection on the challenges faced, lessons learned, and potential improvements for future iterations of the Simple Web Scraper.
+
+**Tips:**
+- Break down the problem into smaller tasks before starting the implementation.
+- Utilize a library like JSoup for parsing HTML content.
+- Consider allowing users to specify the data elements they want to extract or make it customizable.
+
+This Simple Web Scraper assignment will not only enhance your Java programming skills but also provide practical experience in working with web scraping techniques. Enjoy working on the assignment!
